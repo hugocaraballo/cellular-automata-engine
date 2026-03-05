@@ -1,0 +1,14 @@
+# Compiled objects and executables
+*.o
+*.out
+*.exe
+*.app
+simulator
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE configuration folders
+.vscode/
+.idea/
