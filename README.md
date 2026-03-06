@@ -36,6 +36,6 @@ make
 ##  Engine Modes
 Upon launching, the engine prompts for grid dimensions, maximum generations, and rendering mode:
 
-1. Animated Mode ('A'): Renders the cellular automata evolution to the standard output step-by-step. Ideal for observing gliders, oscillators, and stable structures.
+1. Normal Mode ('N'): Renders the cellular automata evolution to the standard output step-by-step. Ideal for observing gliders, oscillators, and stable structures.
 
 2. Fast Mode ('F'): Disables all visual output. Computes all generations purely in memory until a halt condition is met, finally outputting the end state and the exact CPU execution time.
