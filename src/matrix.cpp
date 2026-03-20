@@ -49,7 +49,6 @@ void printCell(char cell, char mode) {
             cout << ' ';
         }
     }
-    
 }
 
 
