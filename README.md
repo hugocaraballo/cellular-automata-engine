@@ -33,6 +33,13 @@ make
 ```
 (Note: To clean the compiled objects and executable, run `make clean`)
 
+## Results
+| Classic Mode | Alternative Mode |
+| :---: | :---: |
+| <img width="728" height="469" alt="Captura de pantalla 2026-03-27 a las 9 33 19" src="https://github.com/user-attachments/assets/68990188-4fb8-4f3f-9ba5-48791eacc868" /> | <img width="722" height="483" alt="Captura de pantalla 2026-03-27 a las 9 34 04" src="https://github.com/user-attachments/assets/1c76265e-54d0-4d95-b6f4-1b0fc2ff3f84" /> |
+
+
+
 ##  Engine Modes
 Upon launching, the engine prompts for grid dimensions, maximum generations, and rendering mode:
 
